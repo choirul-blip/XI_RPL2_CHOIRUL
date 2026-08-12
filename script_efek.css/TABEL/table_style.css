@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+table {
+    border-collapse: collapse;
+}
+
+th {
+    color: #FFFFFF;
+    background-color: #336699;
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+    font-size: 9pt;
+    padding: 6px;
+}
+
+td {
+    color: red;
+    background-color: #E6E6FA;
+    border-width: 1px;
+    border-style: solid;
+    border-color: blue;
+    font-size: 9pt;
+    padding: 6px;
+=======
+table {
+    border-collapse: collapse;
+}
+
+th {
+    color: #FFFFFF;
+    background-color: #336699;
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+    font-size: 9pt;
+    padding: 6px;
+}
+
+td {
+    color: red;
+    background-color: #E6E6FA;
+    border-width: 1px;
+    border-style: solid;
+    border-color: blue;
+    font-size: 9pt;
+    padding: 6px;
+>>>>>>> 85caf0242571a8d2da369f3ec61b3282ed38504d
+}

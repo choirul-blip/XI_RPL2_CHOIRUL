@@ -15,6 +15,6 @@
         header("location:admin/index.php");
     }
     else{
-        header("location:index.php?pesan=gagal");
+        header("location:masuk.php?pesan=gagal");
     }
 ?>
